@@ -3,7 +3,7 @@ name: Deploy til GitHub Pages
 on:
   push:
     branches: [main]
-  workflow_dispatch: # Tillader manuel trigger fra GitHub UI
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -36,6 +36,9 @@ jobs:
 
       - name: Byg applikation
         run: npm run build
+
+      - name: SPA Routing Fix (Vigtigt for GitHub Pages)
+        run: cp dist/index.html dist/404.html
 
       - name: Tilføj CNAME til dist (Custom Domain)
         run: echo "newwaysmedia.dk" > dist/CNAME
