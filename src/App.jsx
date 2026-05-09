@@ -5,6 +5,7 @@ import Forside from './components/Forside';
 import Podcasts from './pages/Podcasts';
 import PodcastDetails from './pages/PodcastDetails'; // Ny side
 import Contact from './pages/Contact';
+import NotFound from './pages/NotFound';
 import DustBackground from './components/DustBackground';
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
             <Route path="/" element={<div className="pt-32"><Forside /></div>} />
             <Route path="/podcasts" element={<Podcasts />} />
             <Route path="/podcast/:slug" element={<PodcastDetails />} />
-            <Route path="/kontakt" element={<div className="pt-32"><Contact /></div>} />
+            <Route path="/kontakt" element={<Contact />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
       </div>
