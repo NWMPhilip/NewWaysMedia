@@ -17,7 +17,7 @@ const NotFound = () => {
         <p className="text-slate-400 mb-10 leading-relaxed">
           Siden du leder efter findes desværre ikke. Måske er linket bare knækket? Det i hvert fald ikke her det sker...
         </p>
-        
+
         <Link to="/">
           <motion.button
             whileHover={{ x: -5 }}
