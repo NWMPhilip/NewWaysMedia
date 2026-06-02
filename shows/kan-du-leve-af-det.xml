@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
+	<channel>
+		<title><![CDATA[Fald i søvn til København]]></title>
+		<description><![CDATA[Svært ved at falde i søvn? Find ro på 20 minutter med autentiske lydoptagelser fra København. Perfekt til afslapning, mindfulness, søvn og stressreduktion. Lad en morgen på Enghave Plads, en lørdag på Amager Fælled eller en forårsdag på Amager Strand hjælpe dig med at falde i søvn.
+
+Denne podcast tilbyder ambient noise, baggrundslyde og soundscapes, ideel til at falde i søvn, koble af eller skabe ro i sindet.]]></description>
+		<link>https://www.newwaysmedia.dk</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 27 May 2026 07:17:37 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/e929f8d0/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[New Ways Media]]></author>
+		<copyright><![CDATA[New Ways Media]]></copyright>
+		<language><![CDATA[da]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>New Ways Media</itunes:author>
+		<itunes:summary>Svært ved at falde i søvn? Find ro på 20 minutter med autentiske lydoptagelser fra København. Perfekt til afslapning, mindfulness, søvn og stressreduktion. Lad en morgen på Enghave Plads, en lørdag på Amager Fælled eller en forårsdag på Amager Strand hjælpe dig med at falde i søvn.
+
+Denne podcast tilbyder ambient noise, baggrundslyde og soundscapes, ideel til at falde i søvn, koble af eller skabe ro i sindet.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>New Ways Media</itunes:name>
+			<itunes:email>philip@newwaysmedia.dk</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Health &amp; Fitness">
+			<itunes:category text="Mental Health"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39018420/39018420-1763762674090-6f3803b837e36.jpg"/>
+		<item>
+			<title><![CDATA[test]]></title>
+			<description><![CDATA[blablabla]]></description>
+			<pubDate>2026-06-02</pubDate>
+			<enclosure url="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode14_saeson1_test.mp3" type="audio/mpeg" length="5371850"/>
+			<guid isPermaLink="false">ee628680-6d5e-4153-b02f-2d297a330628</guid>
+			<link>https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode14_saeson1_test.mp3</link>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<itunes:summary><![CDATA[<p>blablabla</p><p><br></p><p><strong>© </strong>New Ways Media 2026</p>]]></itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>03:43</itunes:duration>
+			<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/billede.jpeg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Valby Strand]]></title>
+			<description><![CDATA[<p>En blæsende efterårsdag på Valby Strand. Luk øjenene og lad den blide white noise facilitere en skøn blanding af vindstød, bølger, måger, wolt-bud på knallert, cykler og løbere, der passere dine øre. God nat.</p><p><br></p><p><strong>Om &quot;Fald i søvn til København&quot;:</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br></p><p><strong>Sådan bruger du bedst &quot;Fald i søvn til København&quot;:</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Valby-Strand-e3b5hms</link>
+			<guid isPermaLink="false">46841c32-0a22-433c-8f71-e9cf570531ee</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Tue, 25 Nov 2025 22:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/111379612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-20%2F28e351f0-46fb-4e90-e70f-215b212a4f80.mp3" length="47366656" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;En blæsende efterårsdag på Valby Strand. Luk øjenene og lad den blide white noise facilitere en skøn blanding af vindstød, bølger, måger, wolt-bud på knallert, cykler og løbere, der passere dine øre. God nat.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om &amp;quot;Fald i søvn til København&amp;quot;:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst &amp;quot;Fald i søvn til København&amp;quot;:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:19:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763762707275-0fa3ba137787.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Valbyparken]]></title>
+			<description><![CDATA[<p>Luk øjnene og mærk Valbyparkens efterårsstemning. Bladene rasler, vinden suser, og fuglene kalder. Alt omkring dig føles stille og fredfyldt. Træk vejret dybt og lad kroppen slappe af, mens du langsomt falder til ro. </p><p><br></p><p><strong>Om &quot;Fald i søvn til København&quot;:</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br></p><p><strong>Sådan bruger du bedst &quot;Fald i søvn til København&quot;:</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Valbyparken-e3b5gmm</link>
+			<guid isPermaLink="false">489693bf-e0bc-4ab6-bf76-fb5de2857650</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Sun, 23 Nov 2025 22:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/111378582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-20%2Fae356b93-ffaf-7132-1e64-f4e4ae1b0bb8.mp3" length="47926336" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og mærk Valbyparkens efterårsstemning. Bladene rasler, vinden suser, og fuglene kalder. Alt omkring dig føles stille og fredfyldt. Træk vejret dybt og lad kroppen slappe af, mens du langsomt falder til ro. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om &amp;quot;Fald i søvn til København&amp;quot;:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst &amp;quot;Fald i søvn til København&amp;quot;:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:19:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763753051809-5c9aded450c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Søndermarken]]></title>
+			<description><![CDATA[<p>Luk øjnene og oplev efterårsro i Søndermarken, Frederiksbergs smukke park. Lad vinden gennem de gamle træer og de raslende blade skabe en beroligende, vedvarende white noise, mens fuglene kalder blidt fra grenene. I baggrunden kan du fornemme byens stille summen, der blander sig med naturens efterårsmagi. Dette afslappende lydlandskab fra Søndermarken er perfekt til meditation, afslapning og søvn, og giver dig en fredelig pause midt i storbyen.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p><p><br /></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Sndermarken-e3b5g83</link>
+			<guid isPermaLink="false">e4d0ae5f-3336-44a1-8a52-ffe841684453</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Wed, 19 Nov 2025 22:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/111378115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-20%2F73611092-85dc-2524-c48b-b02df51e32f6.mp3" length="58934656" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og oplev efterårsro i Søndermarken, Frederiksbergs smukke park. Lad vinden gennem de gamle træer og de raslende blade skabe en beroligende, vedvarende white noise, mens fuglene kalder blidt fra grenene. I baggrunden kan du fornemme byens stille summen, der blander sig med naturens efterårsmagi. Dette afslappende lydlandskab fra Søndermarken er perfekt til meditation, afslapning og søvn, og giver dig en fredelig pause midt i storbyen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:24:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763753029490-847df8ce9b469.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Fælledparken]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad efterårslydene fra Fælledparken omslutte dig. Blæsten suser gennem træerne og skaber en blid, vedvarende white noise, der giver en konstant, beroligende baggrund. Hør bladene rasle, fuglene kalde blidt mellem træerne, og fornem byens stille brusen i det fjerne. En stemningsfuld lydscene, hvor naturens efterårsmagi og storbyens puls mødes – perfekt til at finde ro og glide trygt ind i søvnen.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Flledparken-e3b5g3b</link>
+			<guid isPermaLink="false">92e2a7f1-64a9-42cf-8922-95a6da48f0ef</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Tue, 18 Nov 2025 05:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/111377963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-20%2F82e1356b-b6e8-bedc-5e77-53ab4752f50a.mp3" length="53126656" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad efterårslydene fra Fælledparken omslutte dig. Blæsten suser gennem træerne og skaber en blid, vedvarende white noise, der giver en konstant, beroligende baggrund. Hør bladene rasle, fuglene kalde blidt mellem træerne, og fornem byens stille brusen i det fjerne. En stemningsfuld lydscene, hvor naturens efterårsmagi og storbyens puls mødes – perfekt til at finde ro og glide trygt ind i søvnen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:22:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747721712-ec114f4af55dd.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til en gård på Vesterbro]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra en gård på Vesterbro omslutte dig. Hør duernes blide kurren, uglernes dæmpede tuden og byens svage puls i baggrunden. En stemningsfuld lydkulisse, der forener det urbane med det naturlige – perfekt til at finde ro og falde i søvn midt i storbyens skjulte oase.</p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-en-grd-p-Vesterbro-e33148q</link>
+			<guid isPermaLink="false">9063a90e-9b37-4f46-b03d-8074bdf52b10</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 06 Jun 2025 12:53:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102846170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-6%2F401692833-44100-2-fddb095934be6.m4a" length="19449795" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra en gård på Vesterbro omslutte dig. Hør duernes blide kurren, uglernes dæmpede tuden og byens svage puls i baggrunden. En stemningsfuld lydkulisse, der forener det urbane med det naturlige – perfekt til at finde ro og falde i søvn midt i storbyens skjulte oase.&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:20:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747692852-e99d3eb5bc49a.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Frederiksberg Have]]></title>
+			<description><![CDATA[<p>Læg dig til rette og nyd 20 minutters stilhed fra Frederiksberg Have. </p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Frederiksberg-Have-e33rldn</link>
+			<guid isPermaLink="false">368dffd9-5b6f-43f0-9c80-a1cc93705837</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Thu, 05 Jun 2025 17:06:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/103715703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-5%2F401643453-44100-2-875ede679586e.m4a" length="20027072" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Læg dig til rette og nyd 20 minutters stilhed fra Frederiksberg Have. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:20:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747664943-882a64dbc0bb8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Nyhavn]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Nyhavn tage dig med til Københavns historiske havnekvarter. Hør de sagte bølgeskvulp mod kajen, den livlige snak fra caféerne og de gamle træskibes lette knirken. En stemningsfuld lydkulisse, der indfanger både byens charme og havnens ro – perfekt til at finde fred og falde i søvn.</p><p><br /></p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Nyhavn-e32v0i1</link>
+			<guid isPermaLink="false">7f676a40-30db-49d2-ac42-edb92f1c5934</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:41:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2Ff1519f34-7a8b-f709-d64b-89c4c1a4dc78.mp3" length="28839578" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Nyhavn tage dig med til Københavns historiske havnekvarter. Hør de sagte bølgeskvulp mod kajen, den livlige snak fra caféerne og de gamle træskibes lette knirken. En stemningsfuld lydkulisse, der indfanger både byens charme og havnens ro – perfekt til at finde fred og falde i søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:20:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747629668-ae6c55efd5be7.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Kongens Have]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Kongens Have omslutte dig. Fuglesang, blide stemmer i baggrunden og vindens hvisken mellem de gamle træer skaber en fredfyldt atmosfære – perfekt til at finde ro og falde i søvn. Drøm dig væk til en forårsdag i hjertet af København, hvor naturen og byen mødes i harmoni.</p><p><br /></p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Kongens-Have-e32v0gt</link>
+			<guid isPermaLink="false">b920193f-a57e-4492-bda0-acf65141c6c0</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:39:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2F264b3fc6-dce4-c0ee-db42-31cca39d5a79.mp3" length="30729804" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Kongens Have omslutte dig. Fuglesang, blide stemmer i baggrunden og vindens hvisken mellem de gamle træer skaber en fredfyldt atmosfære – perfekt til at finde ro og falde i søvn. Drøm dig væk til en forårsdag i hjertet af København, hvor naturen og byen mødes i harmoni.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:21:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747606639-040b1f61bac1c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Enghave Plads]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Enghave Plads føre dig til ro. Byens summen blander sig med lyden af fodtrin, cykler og de stille øjeblikke midt i byens puls – alt sammen skabt for at hjælpe dig med at finde fred og falde i søvn. Perfekt til dig, der vil mærke Københavns stemning uden at forlade sengen.</p><p><br /></p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Enghave-Plads-e32v0el</link>
+			<guid isPermaLink="false">3c7269b0-9b78-4d78-9c83-155e5ee5e696</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:38:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2Fe7f8f273-6a00-f862-7643-38fbb1faaa09.mp3" length="35491405" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Enghave Plads føre dig til ro. Byens summen blander sig med lyden af fodtrin, cykler og de stille øjeblikke midt i byens puls – alt sammen skabt for at hjælpe dig med at finde fred og falde i søvn. Perfekt til dig, der vil mærke Københavns stemning uden at forlade sengen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:24:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747572832-3e1276f08882b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Dybbølsbro]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Dybbølsbro Station tage dig med til byens puls. Hør togenes rytmiske kørsel, den sagte summen af rejsende og byens fjerne lyde i baggrunden. En autentisk lydkulisse fra København, der kombinerer bevægelse og ro – perfekt til dig, der vil falde i søvn med byens liv som baggrund.</p><p><br /></p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Dybblsbro-e32v0dj</link>
+			<guid isPermaLink="false">63f36042-c340-44b5-9657-0a121612525c</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:36:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2Fb245063c-9ff6-f9a3-9888-dd1965043d01.mp3" length="19138348" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Dybbølsbro Station tage dig med til byens puls. Hør togenes rytmiske kørsel, den sagte summen af rejsende og byens fjerne lyde i baggrunden. En autentisk lydkulisse fra København, der kombinerer bevægelse og ro – perfekt til dig, der vil falde i søvn med byens liv som baggrund.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:13:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747551475-4c611d5a2b958.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Islands Brygge]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Islands Brygge tage dig med til vandkanten. Hør bølgerne slå mod kajen, summen fra mennesker langs promenaden og den friske brise fra havnen. En fredfyldt lydkulisse, der hjælper dig med at finde ro og falde i søvn – som at være lige ved vandet, uden at forlade sengen.</p><p><br /></p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Islands-Brygge-e32v0cc</link>
+			<guid isPermaLink="false">4098b4f8-18c3-4d47-97c0-b4677354d6ae</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:34:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2F0437dff7-17e1-8170-b213-78c4b2158317.mp3" length="27466590" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Islands Brygge tage dig med til vandkanten. Hør bølgerne slå mod kajen, summen fra mennesker langs promenaden og den friske brise fra havnen. En fredfyldt lydkulisse, der hjælper dig med at finde ro og falde i søvn – som at være lige ved vandet, uden at forlade sengen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:19:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747516522-269a7f3fc9863.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Amager Fælled]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Amager Fælled føre dig til ro. Naturens stille susen, fuglenes sang og den lette brise gennem græsset skaber en fredfyldt atmosfære – perfekt til at slippe dagens tanker og falde i søvn. Drøm dig væk til en grøn oase midt i byen, hvor naturen får plads til at ånde.</p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Amager-Flled-e32v0bb</link>
+			<guid isPermaLink="false">8280d5cf-ea96-48ad-b2ce-787a5cc594ff</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:33:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2F476dde9e-86cd-d51f-0bee-1cd0f9b57673.mp3" length="26396424" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Amager Fælled føre dig til ro. Naturens stille susen, fuglenes sang og den lette brise gennem græsset skaber en fredfyldt atmosfære – perfekt til at slippe dagens tanker og falde i søvn. Drøm dig væk til en grøn oase midt i byen, hvor naturen får plads til at ånde.&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:18:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763747496129-14c05925664c9.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fald i søvn til Amager Strand]]></title>
+			<description><![CDATA[<p>Luk øjnene og lad lyden fra Amager Strand føre dig til ro. Vi har fanget den blide brusen fra bølgerne, vinden der danser gennem sivene og den stille puls fra kysten – alt sammen skabt for at hjælpe dig med at finde fred og falde i søvn. Perfekt til dig, der savner havets nærvær eller bare vil lade tankerne drive væk.</p><p>God fornøjelse og god søvn.</p><p><br /></p><p><strong>Om "Fald i søvn til København":</strong></p><p>“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.</p><p><br /></p><p><strong>Sådan bruger du bedst "Fald i søvn til København":</strong></p><p>Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. </p><p><br /></p><p>- Ellers ønsker vi dig blot en god, rolig søvn.</p><p><br /></p><p><strong>© </strong>New Ways Media 2025</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/new-ways-media/episodes/Fald-i-svn-til-Amager-Strand-e32v06o</link>
+			<guid isPermaLink="false">c0b303c5-f387-4342-906c-f0ec5fd1f203</guid>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<pubDate>Fri, 16 May 2025 21:31:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e929f8d0/podcast/play/102776472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2F69c9f1b6-0f93-c677-c417-c8dd79027baf.mp3" length="24541922" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Luk øjnene og lad lyden fra Amager Strand føre dig til ro. Vi har fanget den blide brusen fra bølgerne, vinden der danser gennem sivene og den stille puls fra kysten – alt sammen skabt for at hjælpe dig med at finde fred og falde i søvn. Perfekt til dig, der savner havets nærvær eller bare vil lade tankerne drive væk.&lt;/p&gt;&lt;p&gt;God fornøjelse og god søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Om "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“Fald i søvn til København”, bringer dig øjeblikslydbilleder direkte fra byens rum. Alt er optaget live og uredigeret, så oplevelsen bliver så autentisk som muligt – lige fra hunde, der gør, børn der griner eller græder, til biler og byens stille summen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sådan bruger du bedst "Fald i søvn til København":&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Selvom lydbillederne er tænkt til at hjælpe dig med at falde i søvn, kan der forekomme pludselige lyde. Vi anbefaler derfor, at du bruger dine earpods på omkring 50% lydstyrke og sætter din enhed på et bord ved sengekanten. Sæt gerne søvntimeren til 15-20 minutter og lad dig føre ind i byens nattelyd. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;- Ellers ønsker vi dig blot en god, rolig søvn.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2025&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:17:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39018420/39018420-1763743596534-00a711215e7d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
