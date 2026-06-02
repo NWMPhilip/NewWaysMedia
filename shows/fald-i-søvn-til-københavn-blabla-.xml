@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Fald i Søvn Til København blabla ]]></title>
+    <description><![CDATA[sdfdfwefwef]]></description>
+    <link>https://newwaysmedia.dk</link>
+    <generator>New Ways Media Podcast Generator</generator>
+    <lastBuildDate>Tue, 02 Jun 2026 17:23:20 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/NWMPhilip/NewWaysMedia/main/shows/fald-i-søvn-til-københavn-blabla-.xml" rel="self" type="application/rss+xml" />
+    <language>da</language>
+    <copyright><![CDATA[© New Ways Media]]></copyright>
+    <itunes:author><![CDATA[New Ways Media]]></itunes:author>
+    <itunes:summary><![CDATA[sdfdfwefwef]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name><![CDATA[New Ways Media]]></itunes:name>
+      <itunes:email>hello@newwaysmedia.dk</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society & Culture" />
+    <itunes:image href="ttps://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/39018420/39018420-1763762674090-6f3803b837e36.jpg"/>
+  </channel>
+</rss>
