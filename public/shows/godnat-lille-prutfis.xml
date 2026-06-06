@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title><![CDATA[Godnat lille Prutfis!]]></title>
-    <description><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title><![CDATA[Godnat lille Prutfis!]]></title>
+		<description><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
 Kategori: Børn og Familie / Godnat og Søvn
 
 Når mørket falder på, og dagen langsomt slipper sit tag, åbner vi døren til et hemmeligt univers. Denne podcast er skabt til at gribe barnet i præcis det øjeblik, hvor øjenlågene bliver tunge, og virkeligheden flyder sammen med fantasien. Her findes ingen vilde konflikter eller skarpe kanter – kun fængslende, men fuldstændig trygge fortællinger, der lader nattens magi folde sig ud og bærer lytteren sikkert ind i søvnen.
@@ -12,14 +12,14 @@ I vores historier rejser vi væk fra børneværelset og ud på eventyr, hvor alt
 
 Et nærværende og varmt lydlandskab
 For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.]]></description>
-    <link>https://newwaysmedia.dk</link>
-    <generator>New Ways Media Podcast Generator</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 20:15:37 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/NWMPhilip/NewWaysMedia/main/public/shows/godnat-lille-prutfis.xml" rel="self" type="application/rss+xml" />
-    <language>da</language>
-    <copyright><![CDATA[© New Ways Media]]></copyright>
-    <itunes:author><![CDATA[New Ways Media]]></itunes:author>
-    <itunes:summary><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
+		<link>https://newwaysmedia.dk</link>
+		<generator>New Ways Media Podcast Generator</generator>
+		<lastBuildDate>Sat, 06 Jun 2026 20:15:37 GMT</lastBuildDate>
+		<atom:link href="https://raw.githubusercontent.com/NWMPhilip/NewWaysMedia/main/public/shows/godnat-lille-prutfis.xml" rel="self" type="application/rss+xml"/>
+		<language>da</language>
+		<copyright><![CDATA[© New Ways Media]]></copyright>
+		<itunes:author><![CDATA[New Ways Media]]></itunes:author>
+		<itunes:summary><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
 Kategori: Børn og Familie / Godnat og Søvn
 
 Når mørket falder på, og dagen langsomt slipper sit tag, åbner vi døren til et hemmeligt univers. Denne podcast er skabt til at gribe barnet i præcis det øjeblik, hvor øjenlågene bliver tunge, og virkeligheden flyder sammen med fantasien. Her findes ingen vilde konflikter eller skarpe kanter – kun fængslende, men fuldstændig trygge fortællinger, der lader nattens magi folde sig ud og bærer lytteren sikkert ind i søvnen.
@@ -29,13 +29,27 @@ I vores historier rejser vi væk fra børneværelset og ud på eventyr, hvor alt
 
 Et nærværende og varmt lydlandskab
 For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.]]></itunes:summary>
-    <itunes:type>episodic</itunes:type>
-    <itunes:owner>
-      <itunes:name><![CDATA[New Ways Media]]></itunes:name>
-      <itunes:email>hello@newwaysmedia.dk</itunes:email>
-    </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Kids &amp; Family &gt; Stories for Kids" />
-    <itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnat-lille-prutfis_artwork.jpeg"/>
-  </channel>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name><![CDATA[New Ways Media]]></itunes:name>
+			<itunes:email>hello@newwaysmedia.dk</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Kids &amp; Family &gt; Stories for Kids"/>
+		<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnat-lille-prutfis_artwork.jpeg"/>
+		<item>
+			<title><![CDATA[Alfred den Uundværlige Viking]]></title>
+			<description><![CDATA[En historie om en viking, der var så uundværlig, at Høvdingen måtte gøre ham undværlig. ]]></description>
+			<pubDate>2026-06-06</pubDate>
+			<enclosure url="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode1_saeson1_alfred_den_uundvaerlige_viking.mp3" type="audio/mpeg" length="5707248"/>
+			<guid isPermaLink="false">0b340b3d-678b-4731-8683-f58b483894b1</guid>
+			<link>https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode1_saeson1_alfred_den_uundvaerlige_viking.mp3</link>
+			<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[New Ways Media]]></dc:creator>
+			<itunes:summary><![CDATA[<p>En historie om en viking, der var så uundværlig, at Høvdingen måtte gøre ham undværlig. </p><p><br></p><p><strong>© </strong>New Ways Media 2026</p>]]></itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>03:57</itunes:duration>
+			<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode1_saeson1_alfred_den_uundvaerlige_viking.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
 </rss>
