@@ -35,7 +35,7 @@ For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet
       <itunes:email>hello@newwaysmedia.dk</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Kids & Family > Stories for Kids" />
+    <itunes:category text="Kids &amp; Family &gt; Stories for Kids" />
     <itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnat-lille-prutfis_artwork.jpeg"/>
   </channel>
 </rss>
