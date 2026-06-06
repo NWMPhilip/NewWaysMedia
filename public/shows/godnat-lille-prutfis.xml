@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Godnat lille Prutfis!]]></title>
+    <description><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
+Kategori: Børn og Familie / Godnat og Søvn
+
+Når mørket falder på, og dagen langsomt slipper sit tag, åbner vi døren til et hemmeligt univers. Denne podcast er skabt til at gribe barnet i præcis det øjeblik, hvor øjenlågene bliver tunge, og virkeligheden flyder sammen med fantasien. Her findes ingen vilde konflikter eller skarpe kanter – kun fængslende, men fuldstændig trygge fortællinger, der lader nattens magi folde sig ud og bærer lytteren sikkert ind i søvnen.
+
+Fortællinger, der svæver mellem vågen og drøm
+I vores historier rejser vi væk fra børneværelset og ud på eventyr, hvor alting ånder fred. Vi svæver over sovende byer, går på opdagelse i dybe skove, hvor dyrene hvisker, og sejler på blanke have under et tæppe af stjerner. Fortællingerne er bygget op omkring en rolig puls, der gradvist sænker tempoet og lader barnets åndedræt følge med. Det er en fascinerende, men afdæmpet rejse, hvor nysgerrigheden langsomt og naturligt overgiver sig til hvilen.
+
+Et nærværende og varmt lydlandskab
+For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.]]></description>
+    <link>https://newwaysmedia.dk</link>
+    <generator>New Ways Media Podcast Generator</generator>
+    <lastBuildDate>Sat, 06 Jun 2026 20:15:37 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/NWMPhilip/NewWaysMedia/main/public/shows/godnat-lille-prutfis.xml" rel="self" type="application/rss+xml" />
+    <language>da</language>
+    <copyright><![CDATA[© New Ways Media]]></copyright>
+    <itunes:author><![CDATA[New Ways Media]]></itunes:author>
+    <itunes:summary><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
+Kategori: Børn og Familie / Godnat og Søvn
+
+Når mørket falder på, og dagen langsomt slipper sit tag, åbner vi døren til et hemmeligt univers. Denne podcast er skabt til at gribe barnet i præcis det øjeblik, hvor øjenlågene bliver tunge, og virkeligheden flyder sammen med fantasien. Her findes ingen vilde konflikter eller skarpe kanter – kun fængslende, men fuldstændig trygge fortællinger, der lader nattens magi folde sig ud og bærer lytteren sikkert ind i søvnen.
+
+Fortællinger, der svæver mellem vågen og drøm
+I vores historier rejser vi væk fra børneværelset og ud på eventyr, hvor alting ånder fred. Vi svæver over sovende byer, går på opdagelse i dybe skove, hvor dyrene hvisker, og sejler på blanke have under et tæppe af stjerner. Fortællingerne er bygget op omkring en rolig puls, der gradvist sænker tempoet og lader barnets åndedræt følge med. Det er en fascinerende, men afdæmpet rejse, hvor nysgerrigheden langsomt og naturligt overgiver sig til hvilen.
+
+Et nærværende og varmt lydlandskab
+For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name><![CDATA[New Ways Media]]></itunes:name>
+      <itunes:email>hello@newwaysmedia.dk</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Kids & Family > Stories for Kids" />
+    <itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnat-lille-prutfis_artwork.jpeg"/>
+  </channel>
+</rss>
