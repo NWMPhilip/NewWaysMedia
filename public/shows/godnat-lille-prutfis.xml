@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
-		<title>Godnat lille Prutfis!</title>
-		<description>Podcastbeskrivelse: Nattens Drømmerejser
+		<title><![CDATA[Godnat lille Prutfis!]]></title>
+		<description><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
 Kategori: Børn og Familie / Godnat og Søvn
 
 Når mørket falder på, og dagen langsomt slipper sit tag, åbner vi døren til et hemmeligt univers. Denne podcast er skabt til at gribe barnet i præcis det øjeblik, hvor øjenlågene bliver tunge, og virkeligheden flyder sammen med fantasien. Her findes ingen vilde konflikter eller skarpe kanter – kun fængslende, men fuldstændig trygge fortællinger, der lader nattens magi folde sig ud og bærer lytteren sikkert ind i søvnen.
@@ -11,14 +11,14 @@ Fortællinger, der svæver mellem vågen og drøm
 I vores historier rejser vi væk fra børneværelset og ud på eventyr, hvor alting ånder fred. Vi svæver over sovende byer, går på opdagelse i dybe skove, hvor dyrene hvisker, og sejler på blanke have under et tæppe af stjerner. Fortællingerne er bygget op omkring en rolig puls, der gradvist sænker tempoet og lader barnets åndedræt følge med. Det er en fascinerende, men afdæmpet rejse, hvor nysgerrigheden langsomt og naturligt overgiver sig til hvilen.
 
 Et nærværende og varmt lydlandskab
-For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.</description>
+For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.]]></description>
 		<link>https://newwaysmedia.dk</link>
 		<generator>New Ways Media Podcast Generator</generator>
-		<lastBuildDate>Tue, 16 Jun 2026 18:49:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2026 08:31:02 GMT</lastBuildDate>
 		<language>da</language>
-		<copyright>© New Ways Media</copyright>
-		<itunes:author>New Ways Media</itunes:author>
-		<itunes:summary>Podcastbeskrivelse: Nattens Drømmerejser
+		<copyright><![CDATA[© New Ways Media]]></copyright>
+		<itunes:author><![CDATA[New Ways Media]]></itunes:author>
+		<itunes:summary><![CDATA[Podcastbeskrivelse: Nattens Drømmerejser
 Kategori: Børn og Familie / Godnat og Søvn
 
 Når mørket falder på, og dagen langsomt slipper sit tag, åbner vi døren til et hemmeligt univers. Denne podcast er skabt til at gribe barnet i præcis det øjeblik, hvor øjenlågene bliver tunge, og virkeligheden flyder sammen med fantasien. Her findes ingen vilde konflikter eller skarpe kanter – kun fængslende, men fuldstændig trygge fortællinger, der lader nattens magi folde sig ud og bærer lytteren sikkert ind i søvnen.
@@ -27,27 +27,27 @@ Fortællinger, der svæver mellem vågen og drøm
 I vores historier rejser vi væk fra børneværelset og ud på eventyr, hvor alting ånder fred. Vi svæver over sovende byer, går på opdagelse i dybe skove, hvor dyrene hvisker, og sejler på blanke have under et tæppe af stjerner. Fortællingerne er bygget op omkring en rolig puls, der gradvist sænker tempoet og lader barnets åndedræt følge med. Det er en fascinerende, men afdæmpet rejse, hvor nysgerrigheden langsomt og naturligt overgiver sig til hvilen.
 
 Et nærværende og varmt lydlandskab
-For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.</itunes:summary>
+For at skabe den mest befordrende overgang til søvnen, er lydbilledet behandlet med kompromisløs omhu. Vokalen er varm, silkeblød og intim, og alle skarpe frekvenser samt pludselige dynamiske skift er nænsomt udjævnet, så intet bryder døsen. Underlægningsmusikken og de subtile, naturtro lydeffekter smyger sig om fortællingen som en tryg, akustisk dyne, hvilket skaber et dybt og uforstyrret rum at falde i søvn i.]]></itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>New Ways Media</itunes:name>
+			<itunes:name><![CDATA[New Ways Media]]></itunes:name>
 			<itunes:email>philip@newwaysmedia.dk</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
-		<itunes:category text="Kids &amp; Family &gt; Stories for Kids" />
-		<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnatprutfislogo.jpg" />
+		<itunes:category text="Kids &amp; Family &gt; Stories for Kids"/>
+		<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnatprutfislogo.jpg"/>
 		<item>
-			<title>Alfred den Uundværlige Viking</title>
-			<description>En historie om en viking, der var så uundværlig, at Høvdingen måtte gøre ham undværlig. </description>
+			<title><![CDATA[Alfred den Uundværlige Viking]]></title>
+			<description><![CDATA[En historie om en viking, der var så uundværlig, at Høvdingen måtte gøre ham undværlig. ]]></description>
 			<pubDate>2026-06-06</pubDate>
 			<link>https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode1_saeson1_alfred_den_uundvaerlige_viking.mp3</link>
 			<guid isPermaLink="false">0b340b3d-678b-4731-8683-f58b483894b1</guid>
-			<enclosure url="https://op3.dev/e/pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode1_saeson1_alfred_den_uundvaerlige_viking.mp3" type="audio/mpeg" length="5707248" />
-			<dc:creator>New Ways Media</dc:creator>
-			<itunes:summary>&lt;p&gt;En historie om en viking, der var så uundværlig, at Høvdingen måtte gøre ham undværlig. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;© &lt;/strong&gt;New Ways Media 2026&lt;/p&gt;</itunes:summary>
+			<enclosure url="https://op3.dev/e/pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/episode1_saeson1_alfred_den_uundvaerlige_viking.mp3" type="audio/mpeg" length="5707248"/>
+			<dc:creator><![CDATA[New Ways Media]]></dc:creator>
+			<itunes:summary><![CDATA[<p>En historie om en viking, der var så uundværlig, at Høvdingen måtte gøre ham undværlig. </p><p><br></p><p><strong>© </strong>New Ways Media 2026</p>]]></itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>03:57</itunes:duration>
-			<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnatprutfislogo.jpg" />
+			<itunes:image href="https://pub-1e972c02aedf4e008d4bb1c54f5c5585.r2.dev/godnatprutfislogo.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
