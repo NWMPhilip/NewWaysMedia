@@ -118,18 +118,29 @@ const Podcasts = () => {
         {podcastGroups.map((group, gIndex) => (
           <div key={gIndex} className="relative z-10">
             <div className="px-8 lg:px-16 flex items-center justify-between mb-6">
-              <div className="flex flex-col gap-1">
-                <Link to={`/podcast/${group.id}`} className="group w-fit">
-                  <h2 className="text-2xl font-bold tracking-tight text-white flex items-center gap-3 group-hover:text-accent transition-colors">
-                    {group.title}
-                    <ChevronRight className="text-slate-600 group-hover:text-accent group-hover:translate-x-1 transition-all" />
-                  </h2>
-                </Link>
-                <span className="text-[10px] text-accent/60 uppercase tracking-[0.2em] font-bold">
-                  Sidst opdateret: {new Date(group.latestUpdate).toLocaleDateString('da-DK', { day: 'numeric', month: 'long' })}
-                </span>
+              <div className="flex items-center gap-4">
+                {group.image && (
+                  <Link to={`/podcast/${group.id}`} className="shrink-0">
+                    <img 
+                      src={group.image} 
+                      alt={group.title} 
+                      className="w-12 h-12 lg:w-16 lg:h-16 rounded-xl object-cover shadow-lg border border-white/10 hover:border-accent/50 transition-colors" 
+                    />
+                  </Link>
+                )}
+                <div className="flex flex-col gap-1">
+                  <Link to={`/podcast/${group.id}`} className="group w-fit">
+                    <h2 className="text-2xl font-bold tracking-tight text-white flex items-center gap-3 group-hover:text-accent transition-colors">
+                      {group.title}
+                      <ChevronRight className="text-slate-600 group-hover:text-accent group-hover:translate-x-1 transition-all" />
+                    </h2>
+                  </Link>
+                  <span className="text-[10px] text-accent/60 uppercase tracking-[0.2em] font-bold">
+                    Sidst opdateret: {new Date(group.latestUpdate).toLocaleDateString('da-DK', { day: 'numeric', month: 'long' })}
+                  </span>
+                </div>
               </div>
-              <Link to={`/podcast/${group.id}`} className="text-sm font-bold text-slate-500 hover:text-white transition-colors uppercase tracking-widest cursor-pointer">Se alle</Link>
+              <Link to={`/podcast/${group.id}`} className="text-sm font-bold text-slate-500 hover:text-white transition-colors uppercase tracking-widest cursor-pointer hidden md:block">Se alle</Link>
             </div>
 
             <div className="flex gap-6 lg:gap-8 overflow-x-auto overflow-y-visible py-10 -my-10 px-8 lg:px-16 no-scrollbar scroll-smooth relative">
