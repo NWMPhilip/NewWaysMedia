@@ -8,26 +8,14 @@ const Forside = () => {
   const [randomEpisodes, setRandomEpisodes] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const RSS_FEEDS = [
-    'https://anchor.fm/s/e929f8d0/podcast/rss',
-    'https://anchor.fm/s/10ad912e0/podcast/rss',
-    'https://anchor.fm/s/10c331ff0/podcast/rss',
-    'https://anchor.fm/s/10bf96058/podcast/rss',
-    'https://anchor.fm/s/f72ed02c/podcast/rss',
-    'https://anchor.fm/s/e1403bc0/podcast/rss',
-    'https://anchor.fm/s/108ab05f0/podcast/rss'
-  ];
-
   useEffect(() => {
     const fetchRandom = async () => {
       try {
-        const allData = await Promise.all(RSS_FEEDS.map(async (url) => {
-          const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
-          const data = await res.json();
-          return data.status === 'ok' ? data.items : [];
-        }));
-
-        const flattened = allData.flat();
+        const res = await fetch('/shows-data.json');
+        if (!res.ok) throw new Error('Failed to fetch');
+        const data = await res.json();
+        
+        const flattened = data.flatMap(show => show.items);
         const shuffled = flattened.sort(() => 0.5 - Math.random()).slice(0, 5);
         setRandomEpisodes(shuffled);
         setLoading(false);

@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Headphones, ChevronLeft, Calendar, Play, Info, X } from 'lucide-react';
-import { RSS_FEEDS } from '../constants/feeds';
 import logoIcon from '../assets/logo_icon_white.svg';
 
 const PodcastDetails = () => {
@@ -13,14 +12,16 @@ const PodcastDetails = () => {
 
   useEffect(() => {
     const fetchPodcast = async () => {
-      const feedConfig = RSS_FEEDS.find(f => f.id === slug);
-      if (!feedConfig) return;
-
       try {
-        const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedConfig.url)}`);
+        const res = await fetch('/shows-data.json');
+        if (!res.ok) throw new Error('Failed to fetch');
         const data = await res.json();
-        if (data.status === 'ok') {
-          setPodcast(data);
+        const show = data.find(f => f.id === slug);
+        if (show) {
+          setPodcast({
+            feed: { title: show.title, description: show.description, image: show.image },
+            items: show.items
+          });
         }
         setLoading(false);
       } catch (err) {

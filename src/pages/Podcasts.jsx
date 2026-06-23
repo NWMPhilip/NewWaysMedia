@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Headphones, Info, ChevronRight, Radio } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import logoIcon from '../assets/logo_icon_white.svg';
-import { RSS_FEEDS } from '../constants/feeds';
+
 
 const Podcasts = () => {
   const [podcastGroups, setPodcastGroups] = useState([]);
@@ -14,29 +14,9 @@ const Podcasts = () => {
   useEffect(() => {
     const fetchAll = async () => {
       try {
-        const groups = await Promise.all(RSS_FEEDS.map(async (feed) => {
-          const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}`);
-          const data = await res.json();
-          if (data.status === 'ok') {
-            const latestDate = data.items.length > 0 
-              ? new Date(data.items[0].pubDate).getTime() 
-              : 0;
-
-            return {
-              id: feed.id,
-              title: data.feed.title,
-              description: data.feed.description,
-              image: data.feed.image,
-              items: data.items,
-              latestUpdate: latestDate
-            };
-          }
-          return null;
-        }));
-
-        const sortedGroups = groups
-          .filter(g => g !== null)
-          .sort((a, b) => b.latestUpdate - a.latestUpdate);
+        const res = await fetch('/shows-data.json');
+        if (!res.ok) throw new Error('Failed to fetch');
+        const sortedGroups = await res.json();
 
         setPodcastGroups(sortedGroups);
         
