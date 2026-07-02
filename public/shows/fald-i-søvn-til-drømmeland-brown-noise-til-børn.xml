@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
+		<podcast:guid>f1eb8ae8-acda-5bb3-be48-0dd1ed545031</podcast:guid>
 		<title><![CDATA[Fald i søvn til Drømmeland (Brown Noise til Børn)]]></title>
 		<description><![CDATA[Hvordan får jeg mit barn til at sove? Et spørgsmål du nok genkender. 
 Mange børn finder ro ved lyden af at køre bil. Det skyldes bl.a. monotone, lave lydfrekvenser. Vores eksperimenterende samling, "Fald i Søvn til Drømmeland", er baseret på Brun Støj (Brown Noise), der fokuserer på det dybe 150-500 Hz område. Denne lyd imiterer miljøet i livmoderen og skaber instinktiv tryghed.
