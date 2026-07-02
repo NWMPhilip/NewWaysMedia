@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
+		<podcast:guid>cae65e5f-7fae-59ef-b3ca-3ebf869d07b8</podcast:guid>
 		<title><![CDATA[Københavns Bedste Café]]></title>
 		<description><![CDATA[I denne podcast begiver Emilie Lai og Philip André sig ud i det københavnske caféliv for at finde Københavns Bedste Café. Det burde nogen andre nok have gjort.]]></description>
 		<link>https://www.newwaysmedia.dk</link>
